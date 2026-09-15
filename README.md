@@ -44,6 +44,6 @@ MongoDB → Express.js → React → Node.js
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-[LinkedIn] • [Portfolio] • [Email]
+[https://www.linkedin.com/in/sabacodess/] • [https://www.instagram.com/lilsabaa/]• [ms.sabasiddiqui20004@gmail.com]
