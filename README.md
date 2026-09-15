@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Saba 👋
 
-<!--
-**sabacodess/sabacodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Graduate • Aspiring MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a developer who enjoys building things for the web
+and learning new technologies along the way. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning **React**
+
+Future goal: **Become a MERN Stack Developer**
+
+---
+
+##  What I Know
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+**HTML • CSS • JavaScript**
+
+###  Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React**
+
+###  My Goal
+
+Become a **MERN Stack Developer**
+
+MongoDB → Express.js → React → Node.js
+
+---
+
+##  What I'm Doing
+
+- Building projects to improve my development skills
+- Learning React
+- Exploring modern web development
+- Working toward becoming a MERN Stack Developer
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn] • [Portfolio] • [Email]
