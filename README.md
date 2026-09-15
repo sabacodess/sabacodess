@@ -50,6 +50,6 @@ MongoDB → Express.js → React → Node.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saba-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabacodess/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@lisabaa-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/lilsabaa/)
+[![Instagram](https://img.shields.io/badge/Instagram-@lilsabaa-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/lilsabaa/)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:ms.sabasiddiqui2004@gmail.com)
