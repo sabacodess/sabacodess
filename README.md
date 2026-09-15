@@ -1,4 +1,4 @@
-# Hey, I'm Saba 👋
+# Hey, I'm Saba 
 
 ### BCA Graduate • Aspiring MERN Stack Developer
 
@@ -46,4 +46,10 @@ MongoDB → Express.js → React → Node.js
 
 ##  Connect With Me
 
-[https://www.linkedin.com/in/sabacodess/] • [https://www.instagram.com/lilsabaa/]• [ms.sabasiddiqui20004@gmail.com]
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saba-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabacodess/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@lisabaa-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/lisabaa/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:ms.sabasiddiqui2004@gmail.com)
