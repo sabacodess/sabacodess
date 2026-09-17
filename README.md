@@ -23,7 +23,7 @@ I started with HTML, CSS and JavaScript, and I'm currently focusing on improving
 ##  Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
 </p>
 
 **Currently Learning**
@@ -105,9 +105,10 @@ MERN Stack
 ##  Connect With Me
 
 <p align="left">
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="YOUR_INSTAGRAM_LINK">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
   <a href="https://www.linkedin.com/in/sabacodess/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
