@@ -53,8 +53,9 @@ A modern crochet product showcase website with a dynamic product section. Produc
 
 Tech: HTML • CSS • JavaScript • Google Sheets • ImgBB • WhatsApp
 
- **GitHub:** [https://velvet-touchstudio.vercel.app/]
- **Live Demo:** [https://github.com/sabacodess/velvet-touchStudio]
+ **GitHub:** [https://github.com/sabacodess/velvet-touchStudio]
+ **Live Demo:** [ https://velvet-touchstudio.vercel.app/]
+
 
 ---
 
@@ -105,7 +106,7 @@ MERN Stack
 ##  Connect With Me
 
 <p align="left">
-  <a href="YOUR_INSTAGRAM_LINK">
+  <a href="instagram.com/lilsabaa">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
